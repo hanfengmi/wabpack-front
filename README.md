@@ -17,12 +17,12 @@ wabpack构建前端项目
 
 ##### 4.添加文件
 >目录结构如下   
-> |——index.html
-> |——index.js
-> |——node_modules
-> |——package,json
-> |——test.scss
-> |——webpack.config.js
+> |——index.html   
+> |——index.js   
+> |——node_modules   
+> |——package,json   
+> |——test.scss   
+> |——webpack.config.js   
 
 ##### webpack.config.js
 
