@@ -111,7 +111,7 @@ exports = module.exports = __webpack_require__(3)(undefined);
 
 
 // module
-exports.push([module.i, "body {\n  background: red; }\n", ""]);
+exports.push([module.i, "body {\n  background: white; }\n\n.header {\n  width: 100%;\n  height: 500px;\n  background: blue; }\n", ""]);
 
 // exports
 
